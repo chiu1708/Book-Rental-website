@@ -16,3 +16,5 @@ This website is using:
 
 ## Installation
 This website built with Laravel so to run it will require set up steps like any other laravel project and a running MySQL database to function.
+
+*note: this website originial name was "web-book"*
